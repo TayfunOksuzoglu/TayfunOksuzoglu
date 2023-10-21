@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TayfunOksuzoglu
 - 👀 I’m interested in Technology, science, history, coding, gaming and music!
-- 🌱 I’m currently learning React/Javascript
+- 🌱 I’m currently expanding my knowledge on React/Javascript
 - 📫 How to reach me tayfun1217@gmail.com
 
 <!---
